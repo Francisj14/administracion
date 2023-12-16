@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "database-78d55"
-  }
+    "default": "admin-c9773",
+    "admin": "admin-c9773"
+  },
+  "targets": {},
+  "etags": {}
 }
